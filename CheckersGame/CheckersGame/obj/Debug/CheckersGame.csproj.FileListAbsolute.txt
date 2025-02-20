@@ -1,0 +1,15 @@
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\bin\Debug\Images\blackKing.png
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\bin\Debug\Images\blackPiece.png
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\bin\Debug\Images\DamkaGame.jpg
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\bin\Debug\Images\whiteKing.png
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\bin\Debug\Images\whitePiece.png
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\bin\Debug\Ex05 Hadar 211512017 Eden 212709323.exe.config
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\bin\Debug\Ex05 Hadar 211512017 Eden 212709323.exe
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\bin\Debug\Ex05 Hadar 211512017 Eden 212709323.pdb
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\obj\Debug\FormGameBoard.resources
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\obj\Debug\FormSettings.resources
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\obj\Debug\Ex05 Hadar 211512017 Eden 212709323.exe
+C:\Users\edens\Downloads\CheckersGame-main\CheckersGame-main\ChekersGame\CheckersGame\CheckersGame\CheckersGame\obj\Debug\Ex05 Hadar 211512017 Eden 212709323.pdb
